@@ -1,0 +1,15 @@
+#green{
+    color: green;
+}
+#blue{
+    color: red;
+}
+#initial
+{
+    color: initial;
+    /* intial means defult value gheto */
+}
+#inherit{
+    color: inherit;
+    /* inherit from green for the parent color */
+}

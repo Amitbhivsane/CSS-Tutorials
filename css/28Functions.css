@@ -1,0 +1,29 @@
+:root{
+    --primary-color: red;
+    --btn-color:lightgreen;
+    --text-color:blue;
+
+
+}
+
+
+
+
+#fun{
+    background-color:var(--primary-color);
+    height: 200px;
+    width: calc(100% - 200px);
+}
+a{
+    padding: 10px 30px;
+    margin: 20px;
+    background-color:var(--text-color);
+    color: red;
+    text-decoration: none;
+}
+#fun2{
+    background-color: aqua;
+    height: 200px;
+    width: calc(100% - 200px);
+    background-color: var(--btn-color);
+}

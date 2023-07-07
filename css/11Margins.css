@@ -1,0 +1,20 @@
+.div1 {
+  background-color: yellow;
+  border: 1px solid red;
+  padding: 25px 50px 30px 75px;
+}
+body {
+  border: 2px dotted black;
+}
+
+#margin {
+  margin-top: -25px;
+   margin-bottom: 20px;
+    margin-left: 30px;
+    margin-right: 30%;  */
+  /* margin: 5% 5%; */
+}
+#auto-center {
+  width: 200px;
+  margin: 10% auto;
+}

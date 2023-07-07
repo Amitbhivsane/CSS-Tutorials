@@ -1,0 +1,6 @@
+#textarea {
+  /* resize: none; */
+  /* resize: both; */
+  /* resize: vertical; */
+  resize: horizontal;
+}

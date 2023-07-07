@@ -1,0 +1,47 @@
+#bg {
+  background-color: skyblue;
+}
+/* body {
+  background-color: red;
+} */
+
+#bg-img {
+  /* height: 500px; */
+  /* background-image: url("image/download (3).jpg"); */
+  /* background-repeat: no-repeat; */
+  /* background-position: center;left top,right bottom */
+  /* background-position: left; */
+  /* background-size: 100% 100%; */
+  /* background-attachment: initial; */
+  /* background-size: 50% 50%; */
+}
+
+/*
+background Color url no-repeat attachement position
+ background-image: url('image/download (3).jpg');
+background-repeat: repeat-y;
+                   repeat-x;
+                   no-repeat;
+ background-position: center;
+                    right top;
+                    left bottom;
+                    50% 100%;  <height width
+                     background-attachment: fixed; iamge fix  
+                      background-size: 100% 100%;size ,contain
+                     
+    
+      */
+
+#mul-bg {
+  height: 600px;
+  background-color: yellow;
+  background-image: url("image/git.png"), url("image/f1.jpeg");
+  background-repeat: no-repeat;
+  background-position: left bottom, right bottom;
+  /* background-size: 50% 50%; */
+}
+/*
+hr {
+  color: rgba(8, 0, 248, 0.321);
+  height: auto 2px;
+} */

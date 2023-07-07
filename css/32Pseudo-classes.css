@@ -1,0 +1,10 @@
+li:first-child {
+  color: red;
+}
+li:nth-child(4) {
+  color: blue;
+  /* odd,even */
+}
+input:focus {
+  border: 3px solid red;
+}

@@ -1,0 +1,12 @@
+.display {
+  border: 1px solid red;
+  height: 50px;
+  width: 50%;
+  display: inline-block;
+  /* display: inline-block; */
+  margin: 10px;
+}
+#div1 {
+  display: block;
+  visibility: hidden;
+}

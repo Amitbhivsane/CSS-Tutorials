@@ -1,0 +1,61 @@
+li {
+  color: aqua;
+}
+
+/* Id selector */
+
+#list2 {
+  color: chocolate;
+}
+
+/* class selector */
+.list5 {
+  color: orangered;
+}
+
+/* psudo class */
+a:hover {
+  color: aqua;
+}
+/* psudo element */
+
+p::first-line {
+  color: pink;
+}
+/* Attribute slector */
+a[href="https://www.google.co.in"]
+{
+  color: chartreuse;
+}
+input[type="password"] {
+  color: black;
+}
+/* Universal selector */
+
+* {
+  /* border: 1px solid orange; */
+}
+/* combinator selector */
+/* adjusent selector */
+
+div a {
+  color: yellow;
+}
+
+/* Direct child */
+/* div > a{
+  color: yellow;
+} */
+
+div + a {
+  color: brown;
+}
+
+div ~ a {
+  color: bisque;
+}
+
+h1,
+p {
+  color: aqua;
+}

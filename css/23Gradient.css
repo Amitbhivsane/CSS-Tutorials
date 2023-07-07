@@ -1,0 +1,19 @@
+#div1{
+    height: 500px;
+    border: 1px solid green;
+    /* background-image: linear-gradient( blue, yellow,red); */
+    /* background-image: linear-gradient(to right, blue, yellow,red); */
+    /* background-image: linear-gradient(to bottom right, blue, yellow,red); */
+    background-image: linear-gradient(160deg, blue, yellow,red);
+}
+
+#div2{
+    height: 500px;
+    border: 1px solid green;
+    /* background-image: radial-gradient(blue, red, orange); */
+    background-image: radial-gradient( circle,blue 20%, red 30%, orange 50%);
+    
+    /* background-image: linear-gradient(to bottom right, blue, yellow,red); */
+    /* background-image: linear-gradient(160deg, blue, yellow,red); */
+
+}

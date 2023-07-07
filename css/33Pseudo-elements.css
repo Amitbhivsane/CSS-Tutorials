@@ -1,0 +1,17 @@
+p::first-letter{
+/* fiest line */
+    font-size: 35px;
+    color: red;
+
+}
+h1::before{
+    content: url(image/f1.jpeg);
+}
+h1::after{
+    content: " added after";
+
+}
+::selection{
+    color: red;
+    background-color: yellow;
+}

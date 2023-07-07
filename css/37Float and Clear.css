@@ -1,0 +1,46 @@
+#img1 {
+  /* float: right; */
+  height: 200px;
+  width: 200px;
+  float: right;
+}
+#img2 {
+  /* float: left; */
+  height: 200px;
+  width: 200px;
+  float: right;
+  clear: right;
+}
+#nav {
+  background-color: gray;
+  list-style-type: none;
+  overflow: auto;
+}
+li {
+  color: wheat;
+  padding: 10px 15px;
+  float: left;
+}
+p {
+  border: 1px solid black;
+  overflow: auto;
+}
+img {
+  float: right;
+}
+#content {
+  width: 70%;
+  background-color: aqua;
+  height: 200px;
+  float: left;
+}
+#sidebar {
+  width: 30%;
+  background-color: brown;
+  height: 150px;
+  float: left;
+}
+#footer {
+  background-color: yellowgreen;
+  clear: both;
+}

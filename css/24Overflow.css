@@ -1,0 +1,15 @@
+#Overflow{
+    background-color: whitesmoke;
+    border: 1px solid gray;
+    height: 300px;
+    width: 500px;
+    /* overflow: visible; */
+    /* overflow: visible; */
+    /* overflow: hidden; */
+    /* overflow: scroll; */
+    /* overflow-x: hidden; */
+    /* overflow-y: scroll; */
+    /* overflow: auto;best */
+    resize: horizontal;
+    /* resize: vertical; */
+}

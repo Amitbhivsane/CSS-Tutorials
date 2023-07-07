@@ -1,0 +1,42 @@
+#text {
+  /* width: 50px; */
+  /* border: 1px solid black; */
+  /* color: violet; */
+  /* text-align: justify; */
+  /* line-height: 30px; */
+  /* text-indent: 50px; */
+  /* letter-spacing: 2px; */
+}
+/* text-align :center left wright justify */
+#text1 {
+  /* width: 500px; */
+  /* border: 1px solid black; */
+  /* color: violet; */
+  /* text-decoration: underline; */
+  /* text-transform: uppercase; */
+  /* word-spacing: 15px; */
+
+  /*  text-decoration: underline;,overline,none line-throuth
+    text-transform: uppercase; lowercase,capitalize */
+}
+img {
+  /* border: 1px solid red; */
+  /* vertical-align: middle; */
+  /* width: 200px; */
+  /* border: 1px solid black; */
+}
+#text2 {
+  /* height: 100px; */
+  /* width: 500px; */
+  /* border: 1px solid red; */
+  /* white-space: pre; */
+  /* word-wrap: break-word; */
+}
+#shadow {
+  /* font-size: 70px; */
+  /* text-shadow: 2px 3px 2px red; */
+  /* Horizontal vertical bluer colcoe*/
+}
+#vertical {
+  /* writing-mode: vertical-rl; */
+}
